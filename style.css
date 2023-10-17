@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(#46a3e5, #255cff);
+}
+#corpo{
+    background: linear-gradient(#255cff, #46a3e5);
+    width: 890px;
+    margin-left: 300px;
+    padding: 30px;
+    border-radius: 30px;
+}
+#corpo h3{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30px;
+    color: white;
+}
+#corpo p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    color: white;
+}
+#corpo li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    color: white;
+}
